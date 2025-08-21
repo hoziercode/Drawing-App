@@ -25,7 +25,7 @@
 
 | Drawing Canvas | Color Picker | Brush Preview |
 |--------------|--------------|---------------|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
+| ![App Screenshot](./assets/canvas.png) | *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
