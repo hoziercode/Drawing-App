@@ -79,8 +79,8 @@ lib/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/premium-canvas.git
-cd premium-canvas
+git clone https://github.com/hoziercode/Drawing-App.git
+cd Drawing-App
 ```
 
 ### 2️⃣ Install dependencies
@@ -120,9 +120,9 @@ flutter run
 **Hozier Code**  
 Frontend & Flutter Developer 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5A4FCF?style=for-the-badge&logo=firefox)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5A4FCF?style=for-the-badge&logo=firefox)](https://damilolahoseasalako.netlify.app/project)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/damilola-salako-9125132a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/hoziercode?t=azmsTQToJxGvQyVIziHNzQ&s=08)
 
 ---
 
